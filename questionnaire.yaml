@@ -1,0 +1,25 @@
+'q1': 
+- 
+  - "Give us your one book preference(title) in English:\n"
+- 
+  - "1"
+  - "2"
+  - "3"
+
+'q2':
+- 
+  - "You have done a pretty good job, but choose one more plot:"
+- 
+  - "4"
+  - "5"
+  - "6"
+  
+'q3':  
+- 
+  - "We have a final poll for you, just one more time:"
+-
+  - "7"
+  - "8"
+  - "9"
+  
+  
